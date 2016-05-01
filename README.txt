@@ -15,7 +15,7 @@ License...........: GPLv2
 Version...........: 0.0.4
 Author............: P.A. de Rijk
 E-mail............: pieter@de-rijk.com
-Website...........: http://www.adslweb.net/tools/open-sis
+Website...........: https://github.com/paderijk/open-sis/ 
 
 == LICENSE ===========================================================
 This program is licensed under GPLv2. For license please read 
