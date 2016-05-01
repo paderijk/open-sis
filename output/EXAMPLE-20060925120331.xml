@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="open-sis.0.3-xml.xsl"?>
+<scaninformation>
+<details><computername>My_Windows_Computer</computername>
+<operatingsystem>Microsoft Windows XP Service Pack 2</operatingsystem>
+<os-version>5.1</os-version>
+<os-product-id>76222-312-2203795-23746</os-product-id>
+<os-reg-org>Example Company</os-reg-org>
+<os-reg-owner>Example Owner</os-reg-owner>
+<open-sis-timestamp>Mon 25 Sep 2006 12:03:31 </open-sis-timestamp>
+<open-sis-scriptversion>0.0.3</open-sis-scriptversion>
+<open-sis-outputversion>0.2-xml</open-sis-outputversion>
+</details>
+<software>  <application>
+    <version>04/06/2006 6.8.0.17</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\010D072E91408D6B7C6FC65489B6D30C027605F5</hkey>
+    <name>Windows Driver Package - Nokia Modem  (04/06/2006 6.8.0.17)</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Ad-Aware SE Professional</hkey>
+    <name>Ad-Aware SE Professional</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AddressBook</hkey>
+    <name>AddressBook</name>
+</application>
+  <application>
+    <version> 3.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Adobe SVG Viewer</hkey>
+    <name>Adobe SVG Viewer 3.0</name>
+</application>
+  <application>
+    <version>8.163.1.1-051004a1-027800C-IBM</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ATI Display Driver</hkey>
+    <name>ATI Display Driver</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AXIS Media Control Embedded</hkey>
+    <name>AXIS Media Control Embedded</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Big Free Clock</hkey>
+    <name>Big Free Clock</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BlueScanner_is1</hkey>
+    <name>BlueScanner 1.1.1.0</name>
+</application>
+  <application>
+    <version>7.22.00.52</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CNXT_MODEM_PCI_VEN_8086&amp;DEV_24C6&amp;SUBSYS_05591014</hkey>
+    <name>ThinkPad Integrated 56K Modem</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Connected</hkey>
+    <name>Connected DataProtector</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager</hkey>
+    <name>Connection Manager</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Cygnus Cygwin B20</hkey>
+    <name>Cygwin B20</name>
+</application>
+  <application>
+    <version>2.8.7</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DiffUtils-2.8.7_is1</hkey>
+    <name>GnuWin32: DiffUtils version 2.8.7</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DirectAnimation</hkey>
+    <name>DirectAnimation</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DirectDrawEx</hkey>
+    <name>DirectDrawEx</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Dude</hkey>
+    <name>The Dude</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DVD Express A/V Pak</hkey>
+    <name>DVDExpress</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\DXM_Runtime</hkey>
+    <name>DXM_Runtime</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Fontcore</hkey>
+    <name>Fontcore</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\HASP HL Device Driver</hkey>
+    <name>HASP HL Device Driver</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ICW</hkey>
+    <name>ICW</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\IE40</hkey>
+    <name>IE40</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\IE4Data</hkey>
+    <name>IE4Data</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\IE5BAKEX</hkey>
+    <name>IE5BAKEX</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\IEData</hkey>
+    <name>IEData</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\InstallShield Uninstall Information</hkey>
+    <name>InstallShield Uninstall Information</name>
+</application>
+  <application>
+    <version>7.0.4</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\InstallShield_{929408E6-D265-4174-805F-81D1D914E2A4}</hkey>
+    <name>QuickTime</name>
+</application>
+  <application>
+    <version>2.1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\InstallShield_{D92633F9-FBBD-11D5-B481-006008F1DFC0}</hkey>
+    <name>GFS SAP Mobile Engine 2.1</name>
+</application>
+  <application>
+    <version>20040119.115651</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB833407</hkey>
+    <name>Windows XP Hotfix - KB833407</name>
+</application>
+  <application>
+    <version>20041117.092459</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB873339</hkey>
+    <name>Windows XP Hotfix - KB873339</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB884016</hkey>
+    <name>KB884016</name>
+</application>
+  <application>
+    <version>20050118.202711</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB885250</hkey>
+    <name>Windows XP Hotfix - KB885250</name>
+</application>
+  <application>
+    <version>20041027.181713</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB885835</hkey>
+    <name>Windows XP Hotfix - KB885835</name>
+</application>
+  <application>
+    <version>20041028.173203</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB885836</hkey>
+    <name>Windows XP Hotfix - KB885836</name>
+</application>
+  <application>
+    <version>20041116.131036</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB888113</hkey>
+    <name>Windows XP Hotfix - KB888113</name>
+</application>
+  <application>
+    <version>20041207.111426</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB888302</hkey>
+    <name>Windows XP Hotfix - KB888302</name>
+</application>
+  <application>
+    <version>20050202.080306</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB888603</hkey>
+    <name>Windows XP Hotfix - KB888603</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB890046</hkey>
+    <name>Security Update for Windows XP (KB890046)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB890859</hkey>
+    <name>Windows XP Hotfix - KB890859</name>
+</application>
+  <application>
+    <version>20050110.165439</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB891781</hkey>
+    <name>Windows XP Hotfix - KB891781</name>
+</application>
+  <application>
+    <version>2</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB893066</hkey>
+    <name>Security Update for Windows XP (KB893066)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB893756</hkey>
+    <name>Security Update for Windows XP (KB893756)</name>
+</application>
+  <application>
+    <version>3.1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB893803</hkey>
+    <name>KB893803</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB893803v2</hkey>
+    <name>Windows Installer 3.1 (KB893803)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB896358</hkey>
+    <name>Security Update for Windows XP (KB896358)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB896422</hkey>
+    <name>Security Update for Windows XP (KB896422)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB896423</hkey>
+    <name>Security Update for Windows XP (KB896423)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB896424</hkey>
+    <name>Security Update for Windows XP (KB896424)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB896428</hkey>
+    <name>Security Update for Windows XP (KB896428)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB896688</hkey>
+    <name>Security Update for Windows XP (KB896688)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB899587</hkey>
+    <name>Security Update for Windows XP (KB899587)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB899588</hkey>
+    <name>Security Update for Windows XP (KB899588)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB899589</hkey>
+    <name>Security Update for Windows XP (KB899589)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB899591</hkey>
+    <name>Security Update for Windows XP (KB899591)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB900725</hkey>
+    <name>Security Update for Windows XP (KB900725)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB901017</hkey>
+    <name>Security Update for Windows XP (KB901017)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB901190</hkey>
+    <name>Security Update for Windows XP (KB901190)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB901214</hkey>
+    <name>Security Update for Windows XP (KB901214)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB902400</hkey>
+    <name>Security Update for Windows XP (KB902400)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB904706</hkey>
+    <name>Security Update for Windows XP (KB904706)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB905414</hkey>
+    <name>Security Update for Windows XP (KB905414)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB905749</hkey>
+    <name>Security Update for Windows XP (KB905749)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB905915</hkey>
+    <name>Security Update for Windows XP (KB905915)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB908519</hkey>
+    <name>Security Update for Windows XP (KB908519)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB908531</hkey>
+    <name>Security Update for Windows XP (KB908531)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB911280</hkey>
+    <name>Security Update for Windows XP (KB911280)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB911562</hkey>
+    <name>Security Update for Windows XP (KB911562)</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB911564</hkey>
+    <name>Security Update for Windows Media Player (KB911564)</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB911565</hkey>
+    <name>Security Update for Windows Media Player 10 (KB911565)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB911927</hkey>
+    <name>Security Update for Windows XP (KB911927)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB912812</hkey>
+    <name>Security Update for Windows XP (KB912812)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB912919</hkey>
+    <name>Security Update for Windows XP (KB912919)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB913446</hkey>
+    <name>Security Update for Windows XP (KB913446)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB913580</hkey>
+    <name>Security Update for Windows XP (KB913580)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB914388</hkey>
+    <name>Security Update for Windows XP (KB914388)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB914389</hkey>
+    <name>Security Update for Windows XP (KB914389)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB916281</hkey>
+    <name>Security Update for Windows XP (KB916281)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB917159</hkey>
+    <name>Security Update for Windows XP (KB917159)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB917344</hkey>
+    <name>Security Update for Windows XP (KB917344)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB917422</hkey>
+    <name>Security Update for Windows XP (KB917422)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB917425</hkey>
+    <name>Update for Windows XP (KB917425)</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB917734_WMP10</hkey>
+    <name>Security Update for Windows Media Player 10 (KB917734)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB917953</hkey>
+    <name>Security Update for Windows XP (KB917953)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB918439</hkey>
+    <name>Security Update for Windows XP (KB918439)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB918899</hkey>
+    <name>Security Update for Windows XP (KB918899)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB920214</hkey>
+    <name>Security Update for Windows XP (KB920214)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB920670</hkey>
+    <name>Security Update for Windows XP (KB920670)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB920683</hkey>
+    <name>Security Update for Windows XP (KB920683)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB921398</hkey>
+    <name>Security Update for Windows XP (KB921398)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB921883</hkey>
+    <name>Security Update for Windows XP (KB921883)</name>
+</application>
+  <application>
+    <version>1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\KB922616</hkey>
+    <name>Security Update for Windows XP (KB922616)</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\LTON_HISUSBKeyboardUltraNav</hkey>
+    <name>IBM USB (Travel) Keyboard with UltraNav</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\M886903</hkey>
+    <name>Microsoft .NET Framework 1.1 Hotfix (KB886903)</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\M886904</hkey>
+    <name>M886904</name>
+</application>
+  <application>
+    <version>8.0.0.989</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\McAfee Anti-Spyware Enterprise Module</hkey>
+    <name>McAfee Anti-Spyware Enterprise Module</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft .NET Framework 1.1  (1033)</hkey>
+    <name>Microsoft .NET Framework 1.1</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft .NET Framework 2.0</hkey>
+    <name>Microsoft .NET Framework 2.0</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Device Emulator version 1.0 - ENU</hkey>
+    <name>Microsoft Device Emulator version 1.0 - ENU</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Document Explorer 2005</hkey>
+    <name>Microsoft Document Explorer 2005</name>
+</application>
+  <application>
+    <version>8.00.194</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft SQL Server 2000</hkey>
+    <name>Microsoft SQL Server 2000</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Visual J# 2.0 Redistributable Package</hkey>
+    <name>Microsoft Visual J# 2.0 Redistributable Package</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Visual Studio 2005 Team Suite - ENU</hkey>
+    <name>Microsoft Visual Studio 2005 Team Suite - ENU</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Visual Studio 2005 Tools for Office Runtime</hkey>
+    <name>Microsoft Visual Studio 2005 Tools for Office Runtime</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MobileOptionPack</hkey>
+    <name>MobileOptionPack</name>
+</application>
+  <application>
+    <version>1.5 (nl)</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Mozilla Thunderbird (1.5)</hkey>
+    <name>Mozilla Thunderbird (1.5)</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MPlayer2</hkey>
+    <name>MPlayer2</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MSI30-Beta1</hkey>
+    <name>MSI30-Beta1</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MSI30-Beta2</hkey>
+    <name>MSI30-Beta2</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MSI30-KB884016</hkey>
+    <name>MSI30-KB884016</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MSI30-RC1</hkey>
+    <name>MSI30-RC1</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MSI30-RC2</hkey>
+    <name>MSI30-RC2</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MSI30a-KB884016</hkey>
+    <name>MSI30a-KB884016</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MSI31-Beta</hkey>
+    <name>MSI31-Beta</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MSI31-RC1</hkey>
+    <name>MSI31-RC1</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MsJavaVM</hkey>
+    <name>MsJavaVM</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\NetMeeting</hkey>
+    <name>NetMeeting</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\OnDemand Player Shortcut</hkey>
+    <name>OnDemand Player Shortcut</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\OutlookExpress</hkey>
+    <name>OutlookExpress</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\PCHealth</hkey>
+    <name>PCHealth</name>
+</application>
+  <application>
+    <version>1.98.3</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\PE Explorer_is1</hkey>
+    <name>PE Explorer 1.98 R3</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\PL/SQL Developer [80687277]</hkey>
+    <name>PL/SQL Developer</name>
+</application>
+  <application>
+    <version>1.38</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Power Features</hkey>
+    <name>IBM ThinkPad Battery MaxiMiser and Power Management Features</name>
+</application>
+  <application>
+    <version>1.32</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Power Management Driver</hkey>
+    <name>ThinkPad Power Management Driver</name>
+</application>
+  <application>
+    <version>2.40b</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Presentation Director</hkey>
+    <name>ThinkPad Presentation Director</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Q282784</hkey>
+    <name>Windows XP Hotfix (SP1) [See Q282784 for more information]</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\RealJukebox 1.0</hkey>
+    <name>RealJukebox 1.0</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\RealPlayer 6.0</hkey>
+    <name>RealPlayer</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\SchedulingAgent</hkey>
+    <name>SchedulingAgent</name>
+</application>
+  <application>
+    <version>8</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ShockwaveFlash</hkey>
+    <name>Macromedia Flash Player 8</name>
+</application>
+  <application>
+    <version>7.5.17.18</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\SynTPDeinstKey</hkey>
+    <name>ThinkPad UltraNav Driver</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TeamAsset</hkey>
+    <name>TeamAsset</name>
+</application>
+  <application>
+    <version>1.15</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ThinkPad FullScreen Magnifier</hkey>
+    <name>ThinkPad FullScreen Magnifier</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Van Dale Grote woordenboeken Engels</hkey>
+    <name>Van Dale Grote woordenboeken Engels</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Vim 6.4</hkey>
+    <name>Vim 6.4 (self-installing)</name>
+</application>
+  <application>
+    <version>2.10 build 336</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VoipBuster_is1</hkey>
+    <name>VoipBuster</name>
+</application>
+  <application>
+    <version>4.33</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VPN Client</hkey>
+    <name>VPN Client  5.1d</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\VPN Client - iPassConnect</hkey>
+    <name>VPN Access Manager - iPassConnect</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\WBS Search</hkey>
+    <name>WBS Search</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Windows Media Format Runtime</hkey>
+    <name>Windows Media Format Runtime</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Windows Media Player</hkey>
+    <name>Windows Media Player 10</name>
+</application>
+  <application>
+    <version>3.00.000</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\WorkPace 3.00.14</hkey>
+    <name>WorkPace 3.0</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\XS4ALL-webdisk_is1</hkey>
+    <name>XS4ALL-webdisk Version 4.36 2006.03.09</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\XviD MPEG4 Video Codec v1.0.3</hkey>
+    <name>XviD MPEG4 Video Codec v1.0.3 (remove only)</name>
+</application>
+  <application>
+    <version>3.3.0.338</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0096DA42-CACD-4749-97D1-DDBAD72679E6}</hkey>
+    <name>Colligo TeamSync</name>
+</application>
+  <application>
+    <version>2.01</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{02701910-CA09-4F56-9362-FBA71FA4810C}</hkey>
+    <name>Van Dale Hedendaags Nederlands</name>
+</application>
+  <application>
+    <version>1.3.1.13</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{089751D4-1C4B-4963-9EB2-EBBCEAE9C9CF}</hkey>
+    <name>SUN Java</name>
+</application>
+  <application>
+    <version>1.02.000</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0DFD5D24-4495-4725-866A-F811E64011D0}</hkey>
+    <name>Nokia Wireless Presenter</name>
+</application>
+  <application>
+    <version>1.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{11A7A83C-C2B0-40E4-B488-B3D254DDAE86}</hkey>
+    <name>Fonts</name>
+</application>
+  <application>
+    <version>3.0.0.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1389C6A4-4965-4AEC-9175-08B54A10FA48}</hkey>
+    <name>Microsoft SQL Server 2005 Mobile [ENU] Developer Tools</name>
+</application>
+  <application>
+    <version>1.1.20</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1444B16A-766B-4AD1-8AE8-F0C04C782E2F}</hkey>
+    <name>MySQL Query Browser 1.1</name>
+</application>
+  <application>
+    <version>1.3</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{14C847F0-B707-4B2F-8EF3-11F576DD69C7}</hkey>
+    <name>EuroReady Reckoner</name>
+</application>
+  <application>
+    <version>8.0.50727.42</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1862162E-3BBC-448F-AA63-49F33152D54A}</hkey>
+    <name>Microsoft Visual Studio 2005 Team Suite - ENU</name>
+</application>
+  <application>
+    <version>1.4.2</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{1EE58CC6-D34D-4FD7-B8D7-B903D42B5ECD}</hkey>
+    <name>MyClient 1.4.2</name>
+</application>
+  <application>
+    <version>1.3.02.0b</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2111B23F-7FDA-4A41-8309-E5A1663CA296}</hkey>
+    <name>ThinkPad Keyboard Customizer Utility</name>
+</application>
+  <application>
+    <version>1.61.306</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{21FCC702-C2B4-4952-9C26-9FAC2C5D2FFE}</hkey>
+    <name>XS4ALL Softphone</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2318C2B1-4965-11d4-9B18-009027A5CD4F}</hkey>
+    <name>Google Toolbar for Internet Explorer</name>
+</application>
+  <application>
+    <version>4.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{27791E79-6018-4EDE-AFCB-16652E877A4E}</hkey>
+    <name>PowerPoint Toolbox</name>
+</application>
+  <application>
+    <version>6.11.8.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{290749B0-1E08-427C-9E26-2CA156DC3094}</hkey>
+    <name>Nokia PC Connectivity Solution</name>
+</application>
+  <application>
+    <version>2.01</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2C45E7D5-E790-44E4-B968-B14C6BE008CA}</hkey>
+    <name>Van Dale Woordenboeken Engels</name>
+</application>
+  <application>
+    <version>1.0.0.00887289</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{30EFFF0C-573D-46FB-8AD5-00887289261A}</hkey>
+    <name>Microsoft ASP.NET ValidatePath Module</name>
+</application>
+  <application>
+    <version>2.01</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{321569DF-87E8-42C3-9F07-6596A0224F5A}</hkey>
+    <name>Van Dale Woordenboeken Duits</name>
+</application>
+  <application>
+    <version>8.0.50727.42</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{388E4B09-3E71-4649-8921-F44A3A2954A7}</hkey>
+    <name>Microsoft Visual Studio 2005 Tools for Office Runtime</name>
+</application>
+  <application>
+    <version>1.4</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3A66977F-2B6D-4488-8DAA-F6ACC346F70C}</hkey>
+    <name>LicenseManager</name>
+</application>
+  <application>
+    <version>4.0.1693</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DE5E7D4-7B88-403C-A3FD-2017A8240C5B}</hkey>
+    <name>Google Earth</name>
+</application>
+  <application>
+    <version>12.00a</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{43B6667D-7520-4186-B05B-F5C0494C495D}</hkey>
+    <name>UltraEdit-32</name>
+</application>
+  <application>
+    <version>8.0.50727.42</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{44D4AF75-6870-41F5-9181-662EA05507E1}</hkey>
+    <name>Microsoft Document Explorer 2005</name>
+</application>
+  <application>
+    <version>2.0.5</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4C3478FF-62A6-44B2-ABEE-B49DC4C228E7}</hkey>
+    <name>Visage eXPert PDF </name>
+</application>
+  <application>
+    <version>4.11.0.138</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{536521E3-389A-41B2-82E5-F61B95957CDF}</hkey>
+    <name>SafeGuard(R); Easy 4.11.0</name>
+</application>
+  <application>
+    <version>3.1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5C627690-0FE4-4FB3-9E17-FE9905A1603A}</hkey>
+    <name>Lotus Sametime Connect 3.1 EN</name>
+</application>
+  <application>
+    <version>8.0.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{5DF3D1BB-894E-4DCD-8275-159AC9829B43}</hkey>
+    <name>McAfee VirusScan Enterprise</name>
+</application>
+  <application>
+    <version>2.0.5238</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{625386A4-B6B6-4911-A6E8-23189C3F2D15}</hkey>
+    <name>Microsoft .NET Compact Framework 2.0</name>
+</application>
+  <application>
+    <version>1.00.000</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6447F78D-7C3A-4801-94E3-392DDB8A7FEA}</hkey>
+    <name>AccessData Dongle Driver</name>
+</application>
+  <application>
+    <version>8.0.22.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6815FCDD-401D-481E-BA88-31B4754C2B46}</hkey>
+    <name>Macromedia Flash Player 8</name>
+</application>
+  <application>
+    <version>2.0.50727</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{68A35043-C55A-4237-88C9-37EE1C63ED71}</hkey>
+    <name>Microsoft Visual J# 2.0 Redistributable Package</name>
+</application>
+  <application>
+    <version>6.54.587</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6B2764B1-F062-4481-94FD-58B1C211C448}</hkey>
+    <name>Lotus Notes 6.5.4</name>
+</application>
+  <application>
+    <version>1.0.4292</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{6C531060-84FB-4F96-8F33-29DF020632EB}</hkey>
+    <name>Microsoft .NET Compact Framework 1.0 SP3 Developer</name>
+</application>
+  <application>
+    <version>2.0.50727</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7131646D-CD3C-40F4-97B9-CD9E4E6262EF}</hkey>
+    <name>Microsoft .NET Framework 2.0</name>
+</application>
+  <application>
+    <version>4.20.9818.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{716E0306-8318-4364-8B8F-0CC4E9376BAC}</hkey>
+    <name>Microsoft XML 4.0 SP2 EN</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{718CF0D3-DCDF-428E-9F6C-258F065C8D6D}</hkey>
+    <name>McAfee Desktop Firewall 8.0</name>
+</application>
+  <application>
+    <version>1.33b</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{72806716-7088-41B2-8FA6-717A2A164DAB}</hkey>
+    <name>ThinkVantage Active Protection System</name>
+</application>
+  <application>
+    <version>1.0.50727.42</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{78B75C6D-E53C-424C-BF83-4B63BD4A6682}</hkey>
+    <name>Microsoft Device Emulator version 1.0 - ENU</name>
+</application>
+  <application>
+    <version>7.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7ABB6A8F-DB42-46C4-BAFD-057D29632BEF}</hkey>
+    <name>MacroMedia Authorware Player</name>
+</application>
+  <application>
+    <version>3.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7B1FA87E-96D4-44A9-A21A-038F99CD389C}</hkey>
+    <name>Treinplanner</name>
+</application>
+  <application>
+    <version>9.60.6715.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7CCEBC24-62DB-4280-A8EC-BFA49F167920}</hkey>
+    <name>Software Update for Web Folders</name>
+</application>
+  <application>
+    <version>10.1.0.011</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{7D1D6A24-65D4-454C-8815-4F08A5FFF12C}</hkey>
+    <name>Macromedia Shockwave Player</name>
+</application>
+  <application>
+    <version>11.00.18.1900</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{8704D51E-25B7-4F23-81E7-AA4F54790240}</hkey>
+    <name>Microsoft MapPoint Europe 2004</name>
+</application>
+  <application>
+    <version>1.1.9</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{8A2DA523-38FD-49DA-88E9-6BCDD7CCE9CF}</hkey>
+    <name>MySQL Administrator 1.1</name>
+</application>
+  <application>
+    <version>11.0.7969.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90110409-6000-11D3-8CFE-0150048383C9}</hkey>
+    <name>Microsoft Office Professional Edition 2003</name>
+</application>
+  <application>
+    <version>11.0.7969.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{901F0409-6000-11D3-8CFE-0150048383C9}</hkey>
+    <name>Microsoft Office 2003 Proofing Tools</name>
+</application>
+  <application>
+    <version>11.0.7969.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{903A0409-6000-11D3-8CFE-0150048383C9}</hkey>
+    <name>Microsoft Office Project Standard 2003</name>
+</application>
+  <application>
+    <version>11.0.7969.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90510409-6000-11D3-8CFE-0150048383C9}</hkey>
+    <name>Microsoft Office Visio Professional 2003</name>
+</application>
+  <application>
+    <version>3.0.1.918</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90535871-81B9-4D99-8A13-A7EE97F2D7FE}</hkey>
+    <name>ThinkPad Integrated Bluetooth IV Software</name>
+</application>
+  <application>
+    <version>11.0.5614.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90AE0409-6000-11D3-8CFE-0150048383C9}</hkey>
+    <name>Microsoft Organization Chart 2.0</name>
+</application>
+  <application>
+    <version>11.0.6361.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{90F80409-6000-11D3-8CFE-0150048383C9}</hkey>
+    <name>Remove Hidden Data Tool</name>
+</application>
+  <application>
+    <version>7.0.4</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{929408E6-D265-4174-805F-81D1D914E2A4}</hkey>
+    <name>QuickTime</name>
+</application>
+  <application>
+    <version>4.1.102.133</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{9FAC9E5C-0D20-4DBF-AFE5-2E09C52A95A2}</hkey>
+    <name>ThinkPad Wireless LAN Adapters Software (11a/b, 11b/g, 11a/b/g)</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AB6FFA58-F491-11D3-8951-000000027524}</hkey>
+    <name>{AB6FFA58-F491-11D3-8951-000000027524}</name>
+</application>
+  <application>
+    <version>7.0.1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AC76BA86-0000-7EC8-7489-000000000701}</hkey>
+    <name>Adobe Acrobat 7.0.1 and Reader 7.0.1 Update</name>
+</application>
+  <application>
+    <version>7.0.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AC76BA86-7AD7-1033-7646-A70000000000}</hkey>
+    <name>Adobe Reader 7.0</name>
+</application>
+  <application>
+    <version>6.00.3883.8</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AEB9948B-4FF2-47C9-990E-47014492A0FE}</hkey>
+    <name>Microsoft XML 6.0 EN</name>
+</application>
+  <application>
+    <version>6.80.20</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{B4337A99-5684-474A-B261-E9C71F88E978}</hkey>
+    <name>Nokia PC Suite</name>
+</application>
+  <application>
+    <version>1.4</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{BA3E3446-8054-47A5-8715-01C8E7C16637}</hkey>
+    <name>Comet Lite</name>
+</application>
+  <application>
+    <version>2.6</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{BB29A1EF-7A43-4955-B3B2-45217F1C5FD3}</hkey>
+    <name>Corporate Treasury Support Tool</name>
+</application>
+  <application>
+    <version>5.0.19</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{C195FD06-78E3-4CD9-87F0-2EF3FE5EB7AD}</hkey>
+    <name>MySQL Server 5.0</name>
+</application>
+  <application>
+    <version>3.6</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{C61FF2ED-E5EF-49DD-9CA9-91D448EAE3A1}</hkey>
+    <name>Retain Enterprise</name>
+</application>
+  <application>
+    <version>1.1.4322</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{CB2F7EDD-9D1F-43C1-90FC-4F52EAE172A1}</hkey>
+    <name>Microsoft .NET Framework 1.1</name>
+</application>
+  <application>
+    <version>not-defined</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D1A4DEBD-C2EE-449f-B9FB-E8409F9A0BC5}</hkey>
+    <name>{D1A4DEBD-C2EE-449f-B9FB-E8409F9A0BC5}</name>
+</application>
+  <application>
+    <version>2.1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D92633F9-FBBD-11D5-B481-006008F1DFC0}</hkey>
+    <name>GFS SAP Mobile Engine 2.1</name>
+</application>
+  <application>
+    <version>2.5.1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E1D8B687-F098-4C43-B388-CFE3C621EE38}</hkey>
+    <name>AccessData FTK Imager</name>
+</application>
+  <application>
+    <version>6.80.5.1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E4DD8B33-6F9B-41C5-96FF-5DBF27ED23E7}</hkey>
+    <name>Nokia Connectivity Cable Driver</name>
+</application>
+  <application>
+    <version>2.1</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{E683C10D-D296-46B3-B7A5-691A1847E9F7}</hkey>
+    <name>GFS Time and Expenses applications</name>
+</application>
+  <application>
+    <version>1.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{EA9673DD-6E52-4E8D-BB80-40C386867DC8}</hkey>
+    <name>WinZip Computing WinZip 9.0 SR1 EN</name>
+</application>
+  <application>
+    <version>3.0</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FAE5EB29-0166-46B0-81A1-F9688FFE9C58}</hkey>
+    <name>Maintenance Tool</name>
+</application>
+  <application>
+    <version>1.50b</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FC081D4D-DF1B-4CF1-B530-027E4118D846}</hkey>
+    <name>ThinkPad Configuration</name>
+</application>
+  <application>
+    <version></version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FD951CD4-4600-4F32-83D4-AEA3E504D900}</hkey>
+    <name>AccessData Registry Viewer</name>
+</application>
+  <application>
+    <version>1.6.30</version>
+    <hkey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{FF77941A-2BFA-4A18-BE2E-69B9498E4D55}</hkey>
+    <name>Microsoft UPHClean 1.6.30 EN</name>
+</application>
+</software>
+<hardware>
+<storage>
+<device>
+<interface>
+IDE
+</interface>
+<vendor>not-defined</vendor>
+<product>FUJITSU MHT2040AH                       006C    </product>
+<regkey>##?#IDE#DiskFUJITSU_MHT2040AH_______________________006C____#5&amp;2cae0b77&amp;0&amp;0.0.0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+IDE
+</interface>
+<vendor>not-defined</vendor>
+<product>HTS541040G9AT00                         MB2IA60A</product>
+<regkey>##?#IDE#DiskHTS541040G9AT00_________________________MB2IA60A#5&amp;2c06044&amp;0&amp;0.0.0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+IDE
+</interface>
+<vendor>not-defined</vendor>
+<product>HTS548040M9AT00                         MG2OA5BA</product>
+<regkey>##?#IDE#DiskHTS548040M9AT00_________________________MG2OA5BA#5&amp;2cae0b77&amp;0&amp;0.0.0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+IDE
+</interface>
+<vendor>not-defined</vendor>
+<product>LEXAR ATA FLASH                         V1.00   </product>
+<regkey>##?#IDE#DiskLEXAR_ATA_FLASH_________________________V1.00___#3231313238333331333138393939393031343238#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>ICS Inc.</vendor>
+<product>FastBloc FE</product>
+<regkey>##?#SBP2#ICS_Inc.&amp;FastBloc_FE&amp;LUN0#000cc720e0029b0f#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch</product>
+<regkey>##?#SBP2#Maxtor&amp;OneTouch&amp;LUN0#0010b9f700f58940#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II</product>
+<regkey>##?#SBP2#Maxtor&amp;OneTouch_II&amp;LUN0#0010b9210010eb3a#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II</product>
+<regkey>##?#SBP2#Maxtor&amp;OneTouch_II&amp;LUN0#0010b9210031a4a9#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II</product>
+<regkey>##?#SBP2#Maxtor&amp;OneTouch_II&amp;LUN0#0010b9210060ca54#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II</product>
+<regkey>##?#SBP2#Maxtor&amp;OneTouch_II&amp;LUN0#0010b9210061d744#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II</product>
+<regkey>##?#SBP2#Maxtor&amp;OneTouch_II&amp;LUN0#0010b92100881f5d#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II</product>
+<regkey>##?#SBP2#Maxtor&amp;OneTouch_II&amp;LUN0#0010b921008829c2#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Oxford Semiconductor Ltd.   </vendor>
+<product>OXFORD IDE Device   </product>
+<regkey>##?#SBP2#Oxford_Semiconductor_Ltd.___&amp;OXFORD_IDE_Device___&amp;LUN0#00027a07e0008b4e#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Oxford Semiconductor Ltd.   </vendor>
+<product>OXFORD IDE Device   </product>
+<regkey>##?#SBP2#Oxford_Semiconductor_Ltd.___&amp;OXFORD_IDE_Device___&amp;LUN0#00027a07e0008d37#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Tableau</vendor>
+<product>FireWire-to-IDE</product>
+<regkey>##?#SBP2#Tableau&amp;FireWire-to-IDE&amp;LUN0#000ecc01e005009f#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+Firewire
+</interface>
+<vendor>Tableau</vendor>
+<product>FireWire-to-IDE</product>
+<regkey>##?#SBP2#Tableau&amp;FireWire-to-IDE&amp;LUN0#000ecc01e00500b0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>not-defined</vendor>
+<product>USB DISK Pro Rev 1.08</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_&amp;Prod_USB_DISK_Pro&amp;Rev_1.08#07410E500196&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>not-defined</vendor>
+<product>USB DRIVE Rev 2.00</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_&amp;Prod_USB_DRIVE&amp;Rev_2.00#0000000000003097&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>040302</vendor>
+<product>Flash Disk Rev 7.78</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_040302&amp;Prod_Flash_Disk&amp;Rev_7.78#6&amp;af30005&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>FUJIFILM</vendor>
+<product>USB-DRIVEUNIT Rev 1.00</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_FUJIFILM&amp;Prod_USB-DRIVEUNIT&amp;Rev_1.00#Y-643^^^^^040907WFC00007021969&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Generic</vendor>
+<product>Flash Disk Rev 7.77</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Generic&amp;Prod_Flash_Disk&amp;Rev_7.77#6&amp;39d9addf&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Generic</vendor>
+<product>STORAGE DEVICE Rev 2033</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Generic&amp;Prod_STORAGE_DEVICE&amp;Rev_2033#201053836&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Generic</vendor>
+<product>USB Flash Disk Rev PMAP</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Generic&amp;Prod_USB_Flash_Disk&amp;Rev_PMAP#1F520300042B&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>IBM-DARA</vendor>
+<product>-212000 Rev AR4O</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_IBM-DARA&amp;Prod_-212000&amp;Rev_AR4O#76543210&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>JetFlash</vendor>
+<product>TS2GJF2A </product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_JetFlash&amp;Prod_TS2GJF2A#120&amp;Rev_8.07#STQZNGK2&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>JetFlash</vendor>
+<product>TS2GJF2A </product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_JetFlash&amp;Prod_TS2GJF2A#120&amp;Rev_8.07#VWT2QJN5&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>JetFlash</vendor>
+<product>TS512MJF2A Rev 1.00</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_JetFlash&amp;Prod_TS512MJF2A&amp;Rev_1.00#6&amp;18753420&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>JetFlash</vendor>
+<product>TS512MJF2A Rev 1.00</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_JetFlash&amp;Prod_TS512MJF2A&amp;Rev_1.00#6&amp;2b2ee4c5&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>JetFlash</vendor>
+<product>TS512MJF2A Rev 1.00</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_JetFlash&amp;Prod_TS512MJF2A&amp;Rev_1.00#6&amp;6c9e08f&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>M-Sys</vendor>
+<product>DiskOnKey Rev 4.20</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_M-Sys&amp;Prod_DiskOnKey&amp;Rev_4.20#020B53172300403C&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>M-Sys</vendor>
+<product>Xkey Rev 5.02</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_M-Sys&amp;Prod_Xkey&amp;Rev_5.02#0DA116504111D8C8&amp;1#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>M-Sys</vendor>
+<product>Xkey Rev 5.02</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_M-Sys&amp;Prod_Xkey&amp;Rev_5.02#0DD1065153A39907&amp;1#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>M-SysT5</vendor>
+<product>Dell Memory Key Rev 5.00</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_M-SysT5&amp;Prod_Dell_Memory_Key&amp;Rev_5.00#07C09B4032D1BAD8&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch Rev 0200</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch&amp;Rev_0200#6&amp;20e1c2b1&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch Rev 0200</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch&amp;Rev_0200#6&amp;2ed41fce&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch Rev 0200</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch&amp;Rev_0200#6&amp;2f8603aa&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch Rev 0201</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch&amp;Rev_0201#6&amp;12e86cfe&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch Rev 0201</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch&amp;Rev_0201#6&amp;210ced&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch Rev 0201</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch&amp;Rev_0201#6&amp;326c9db5&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch Rev 0201</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch&amp;Rev_0201#6&amp;e372d7&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch Rev 0201</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch&amp;Rev_0201#Y64C0CFE____&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 023g</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_023g#6&amp;220b2deb&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 023g</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_023g#6&amp;2d246a65&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 023g</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_023g#B60JY0RH____&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 023g</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_023g#B611JNEH____&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 023g</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_023g#L603YK1G____&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 023g</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_023g#L611YZBH____&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 0244</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_0244#6&amp;27f41557&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 0244</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_0244#6&amp;2d175092&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 0244</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_0244#6&amp;c1f48ed&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor</vendor>
+<product>OneTouch II Rev 0244</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor&amp;Prod_OneTouch_II&amp;Rev_0244#L60L87DH____&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Maxtor 6</vendor>
+<product>B300R0 Rev BAH4</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Maxtor_6&amp;Prod_B300R0&amp;Rev_BAH4#76543210&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>OTi</vendor>
+<product>Flash Disk Rev 1.11</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_OTi&amp;Prod_Flash_Disk&amp;Rev_1.11#195615D63D5EF3D3&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>Samsung</vendor>
+<product>Mighty Drive Rev PMAP</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_Samsung&amp;Prod_Mighty_Drive&amp;Rev_PMAP#075719800007&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>SanDisk</vendor>
+<product>Cruzer Mini Rev 0.2</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_SanDisk&amp;Prod_Cruzer_Mini&amp;Rev_0.2#20041101111b4bc0091c&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>SanDisk</vendor>
+<product>Cruzer Titanium Rev 0.4</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_SanDisk&amp;Prod_Cruzer_Titanium&amp;Rev_0.4#SNDK7EADB536D7E03802&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>SigmaTel</vendor>
+<product>MSCN Rev 0100</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_SigmaTel&amp;Prod_MSCN&amp;Rev_0100#0002F5AD44834A1B&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>TOSHIBA</vendor>
+<product>MK1031GAS Rev AA20</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_TOSHIBA&amp;Prod_MK1031GAS&amp;Rev_AA20#76543210&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>TOSHIBA</vendor>
+<product>MK8025GAS Rev KA02</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_TOSHIBA&amp;Prod_MK8025GAS&amp;Rev_KA02#76543210&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>USB NAND</vendor>
+<product>FLASH DISK Rev 0.20</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_USB_NAND&amp;Prod_FLASH_DISK&amp;Rev_0.20#6&amp;2911d84e&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>USB NAND</vendor>
+<product>FLASH DISK Rev 0.20</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_USB_NAND&amp;Prod_FLASH_DISK&amp;Rev_0.20#6&amp;30beec&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+USB
+</interface>
+<vendor>USB NAND</vendor>
+<product>FLASH DISK Rev 0.20</product>
+<regkey>##?#USBSTOR#Disk&amp;Ven_USB_NAND&amp;Prod_FLASH_DISK&amp;Rev_0.20#6&amp;4e633fd&amp;0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+not-defined
+</interface>
+<vendor>not-defined</vendor>
+<product>not-defined</product>
+<regkey>##?#{E9C3AF91-1F3B-474f-B307-1ECE7FF4AF41}#OneTouch_II#B611JNEH1394#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+not-defined
+</interface>
+<vendor>not-defined</vendor>
+<product>not-defined</product>
+<regkey>##?#{E9C3AF91-1F3B-474f-B307-1ECE7FF4AF41}#OneTouch_II#L60Q9WJH#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+<device>
+<interface>
+not-defined
+</interface>
+<vendor>not-defined</vendor>
+<product>not-defined</product>
+<regkey>##?#{E9C3AF91-1F3B-474f-B307-1ECE7FF4AF41}#OneTouch_II#L60VPJZH#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}</regkey>
+</device>
+</storage>
+</hardware>
+</scaninformation>
